@@ -1,32 +1,25 @@
 [
   {
-    "id": "thapaserialnoa",
-    "name": "iphone x",
-    "company": "apple",
-    "price": 6000000,
-    "colors": [
-      "#ff0000",
-      "#000000",
-      "#CDD0D0"
-    ],
-    "image": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
-    "featured": true
+    "id": "cauli",
+    "name": "Cauli flower pickle",
+    "company": "Veg pickle",
+    "price": 320,
+    "image": "https://i.pinimg.com/736x/06/19/ae/0619ae58170416238db26a7650967e25.jpg",
+    "description": "Cauli flower pickle is a tangy and spicy condiment made from Indian gooseberries. It is prepared by marinating amla pieces in a mixture of spices and letting it mature for a few days. It adds zesty flavor to Indian meals.",
+    "category": "Veg pickle",
+    
   },
   {
-    "id": "thapaserialnob",
-    "name": "samsung s20",
-    "company": "samsung",
-    "price": 5000000,
-    "colors": [
-      "#000",
-      "#22D3EF"
-    ],
-    "image": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
-    "shipping": true
+    "id": "Avakaya pickle",
+    "name": "Avakaya pickle",
+    "company": "Veg pickle",
+    "price": 320,
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/avakaya-pachadi.jpg",
+    "description": "Avakaya pickle is a popular South Indian pickle made from raw mangoes. It is prepared by mixing diced mangoes with a blend of spices like mustard seeds, red chili powder, fenugreek, and salt. The mixture is then left to ferment for a few days to develop its unique tangy and spicy flavors. Avakaya pickle is known for its bold taste and is a delightful accompaniment to rice, roti, or any South Indian meal.",
+    "category": "Veg pickle ",
+    "shipping": true,
+    "featured": true
+    
   },
   {
     "id": "thapaserialnoc",
